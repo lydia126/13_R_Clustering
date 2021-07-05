@@ -1,3 +1,4 @@
+  # Git
   # 1. Data preparation
   data("USArrests") # Load the data set
   df <- USArrests # Use df as shorter name
